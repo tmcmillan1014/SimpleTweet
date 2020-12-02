@@ -33,7 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='TwitterPart1.gif' title='Twitter Part 1 Walkthrough' width='250' alt='Video Walkthrough' />
+
+<img src='TwitterPart1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
